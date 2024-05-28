@@ -7,4 +7,4 @@
 Web: [www.neteng.pro](https://www.neteng.pro)
 
 ---
-2024 &nbsp; [Scott Lopez](https://scottlopez.bio.link)
+Logo &nbsp; &copy; 2024 &nbsp; [Scott Lopez](https://scottlopez.bio.link)
