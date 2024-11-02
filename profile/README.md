@@ -16,12 +16,12 @@ Welcome! We've listed several of our main sites below so that you can stay up-to
 Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io) for more information.
 
 ---
-<code style="display:block; white-space:pre-wrap">
+<code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
 Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez)**
 This material comes with ABSOLUTELY NO WARRANTY.
 
->*Except where otherwise noted, NetEng-Pro in its entirety is available, exclusively, under one or both of the following two licenses.*
+*Except where otherwise noted, NetEng-Pro in its entirety is available, exclusively, under one or both of the following two licenses.*
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. You are free to: (a) share and (b) adapt upon this material for any purpose, even commercially.
 
