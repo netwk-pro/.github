@@ -18,8 +18,8 @@ Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io)
 ---
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez)** <br />
-This material comes with ABSOLUTELY NO WARRANTY.
+Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez)**
+<br />This material comes with ABSOLUTELY NO WARRANTY.
 
 *Except where otherwise noted, NetEng-Pro in its entirety is available, exclusively, under one or both of the following two licenses.*
 
