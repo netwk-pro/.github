@@ -21,7 +21,7 @@ Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io)
 Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez)**
 <br />This material comes with ABSOLUTELY NO WARRANTY.
 
-*Except where otherwise noted, NetEng-Pro in its entirety is available, exclusively, under one or both of the following two licenses.*
+*Unless otherwise noted, NetEng-Pro in its' entirety is available, exclusively, under one or both of the following two licenses.*
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. You are free to: (a) share and (b) adapt upon this material for any purpose, even commercially.
 
