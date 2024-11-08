@@ -22,7 +22,8 @@ Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io)
 
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-**[Network Engineering Pro](https://www.neteng.pro/)**, a Free/Libre and Open Source Software Community<br>
+**[Network Engineering Pro](https://www.neteng.pro/)**, a Free/Libre and Open Source Software Community
+
 Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez/)** <br>
 This material comes with ABSOLUTELY NO WARRANTY.
 
