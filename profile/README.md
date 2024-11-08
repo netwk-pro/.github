@@ -24,7 +24,7 @@ Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io)
 
 **[Network Engineering Pro](https://www.neteng.pro/)**, a Free,/Libre and Open Source Software Community
 
-Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez/)**  
+Copyright &copy; 2024 **[Scott Lopez](https://linktr.ee/scottlopez/)**\  
 This material comes with ABSOLUTELY NO WARRANTY.
 
 _Unless otherwise noted, NetEng-Pro in its' entirety is available, exclusively, under one or both of the following two licenses._
