@@ -86,12 +86,14 @@ Ready to contribute and make a real impact? Use the first link to sign up for Ne
 
 &nbsp;
 
+📌 Check out our [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io) for more information.
+
+&nbsp;
+
 <sub>[Top](#top)</sub>
 
------------------------ ------------------------------------
-📌                     Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io) for more information.
+---
 
-----------------------------------------------------------------
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
 **[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
