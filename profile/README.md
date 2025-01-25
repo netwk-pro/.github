@@ -44,9 +44,7 @@ Web: <https://bio.neteng.pro>
 
 `SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later`
 
-# <a id="top">Network Engineering Pro</a>
-
-## Stay Connected & Get Involved
+## <a id="top">Stay Connected & Get Involved</a>
 
 Welcome! Below, you'll find links to our key platforms, including discussion forums, social media, and our main website—keeping you up to date with everything happening in the Network Engineering Pro community. Be sure to check out the [Project Board](https://github.com/orgs/NetEng-Pro/projects/3?pane=info) to track our progress and see the status of individual tasks.
 
