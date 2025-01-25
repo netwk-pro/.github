@@ -1,8 +1,8 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
-<!--
 
+<!--
 Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
-Copyright © 2024 Scott Lopez
+Copyright © 2024-2025 Scott Lopez
 
 ---
 
@@ -40,36 +40,49 @@ See the GNU General Public License for more details.
 Author: Scott Lopez
 Email: <website@neteng.pro>
 Web: <https://bio.neteng.pro>
-
 -->
 
 `SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later`
 
-## <a id="top">Network Engineering Pro</a>
+# <a id="top">Network Engineering Pro</a>
 
-Welcome! We've listed several of our main sites below so that you can stay up-to-date with the Discussions, as well as with our social media accounts and website.
+## Stay Connected & Get Involved
 
+Welcome! Below, you'll find links to our key platforms, including discussion forums, social media, and our main website—keeping you up to date with everything happening in the Network Engineering Pro community. Be sure to check out the [Project Board](https://github.com/orgs/NetEng-Pro/projects/3?pane=info) to track our progress and see the status of individual tasks.
+
+Ready to contribute and make a real impact? Use the first link to sign up for Network Engineering Pro and gain access to our GitHub organization, Slack workspace, and Stack Overflow Team.
+
+> 🌟 **Open to All Skill Levels**  
+> You **_don’t_** need coding experience to be a valuable contributor! There are many ways to get involved, from testing tools to writing app reviews.  
+
+> All we ask is an inquisitive mind, a passion for advancing Free and Open Software, and a commitment to respectful collaboration.
+
+&nbsp;
+
+- **_[Join the Community](#join)_**
 - [Link Hub](#links)
 - [Discussions](#discuss)
 - [Website](#website)
+- [Project Board](https://github.com/orgs/NetEng-Pro/projects/3?pane=info)
 
 ---
+
+#### <a id="join">Join the Community</a>
+
+- [join.neteng.pro](https://join.neteng.pro)
+
 
 #### <a id="links">Link Hub</a>
 
 - [links.neteng.pro](https://links.neteng.pro)
 
-&nbsp;
-
 #### <a id="discuss">Discussions</a>
 
 - [discuss.neteng.pro](https://discuss.neteng.pro)
 
-&nbsp;
-
 #### <a id="website">Website</a>
 
-- [www.neteng.pro](https://www.neteng.pro)
+- [neteng.pro](https://neteng.pro)
 
   > 🛠️ Work In Progress
 
@@ -81,20 +94,19 @@ Welcome! We've listed several of our main sites below so that you can stay up-to
 📌                     Check out the [primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io) for more information.
 
 ----------------------------------------------------------------
-
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-**[Network Engineering Pro](https://neteng.pro/)** ("NetEng-Pro"), a Free/Libre and Open Source Software Community<br />
-Copyright &copy; 2024 **[Scott Lopez](https://bio.neteng.pro)**
+**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. You are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially.
-
-This is free software: you can redistribute it and/or modify it under the terms of the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This material comes with ABSOLUTELY NO WARRANTY. The Licensor offers the Licensed Material AS-IS and AS-AVAILABLE, and makes no representations or warranties of any kind concerning the Material.
-
-  > _Unless otherwise noted, NetEng-Pro in its' entirety is available, exclusively, under one or both of the above licenses._
-
-For complete information, please consult [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) and review the associated license agreements in their entirety.
+Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
+either version 3 of the License, or (at your option) any later version.
 
 </code>
+
+This material is free to distribute, remix, adapt, and build upon for any purpose, including commercial use. As free software, it can be redistributed and
+modified under the [specified terms](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md#gnu-gpl).
+
+NetEng-Pro is provided **_as is_** and **_as available_** without any warranties, express or implied. The Licensor makes no representations or guarantees regarding the Licensed Material and assumes no liability for its use.
+
+For details, see [Copyright and Licensing](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md).
