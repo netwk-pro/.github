@@ -1,18 +1,10 @@
 {
-  "documentSelectors": [
-    "**/*.{ts,js}",
-    "**/*.{html,htm}",
-    "**/*.{yaml,yml}",
-    "**/*.css",
-    "**/*.{md,markdown}",
-    "**/*.{json,jsonc}"
-  ],
   "htmlWhitespaceSensitivity": "strict",
   "quoteProps": "consistent",
-  "trailingComma": "all",
+  "trailingComma": "es5",
   "bracketSameLine": true,
   "bracketSpacing": true,
-  "proseWrap": "always",
+  "proseWrap": "preserve",
   "endOfLine": "lf",
   "printWidth": 80,
   "arrowParens": "always",

@@ -1,5 +1,10 @@
 # Ignore artifacts:
-license/*
+**/.vscode
+**/license
+**/.git
+**/.svn
+**/.hg
+**/node_modules
 package.json
 eslint.config.mjs
 build

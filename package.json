@@ -1,0 +1,59 @@
+{
+  "name": "org-profile-pub",
+  "version": "0.0.1",
+  "description": "The public organization profile for Network Engineering Pro on GitHub",
+  "keywords": [
+    "neteng-pro",
+    "android",
+    "linux",
+    "open",
+    "source",
+    "open-source",
+    "floss",
+    "foss",
+    "security",
+    "cybersecurity",
+    "privacy",
+    "cyber security"
+  ],
+  "homepage": "https://github.com/NetEng-Pro/",
+  "bugs": {
+    "url": "https://github.com/NetEng-Pro/neteng-pro.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetEng-Pro/.github.git"
+  },
+  "license": "CC-BY-4.0 OR GPL-3.0-or-later",
+  "author": {
+    "name": "Scott Lopez",
+    "email": "github@sl.neteng.cc",
+    "url": "https://bio.neteng.pro"
+  },
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "browserslist": "^4.24.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0",
+    "globals": "^15.14.0",
+    "prettier": "3.4.2"
+  },
+  "browserslist": [
+    "defaults and fully supports es6-module",
+    "maintained node versions",
+    "last 2 node major versions",
+    "last 2 versions",
+    "not dead"
+  ],
+  "lockFileVersion": 3
+}
