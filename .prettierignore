@@ -1,0 +1,6 @@
+# Ignore artifacts:
+license/*
+package.json
+eslint.config.mjs
+build
+coverage
