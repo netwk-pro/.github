@@ -1,4 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
+<!-- This file is part of Network Engineering Pro -->
 
 <!--
 Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
@@ -38,7 +39,7 @@ See the GNU General Public License for more details.
 ---
 
 Author: Scott Lopez
-Email: <website@neteng.pro>
+Email: <contact@neteng.pro>
 Web: <https://bio.neteng.pro>
 -->
 
@@ -47,6 +48,7 @@ Web: <https://bio.neteng.pro>
 
 # <a id="top">Stay Connected & Get Involved</a>
 
+[![Build/Test Webpack, Publish to npmjs](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml) [![Deploy static content to GitHub Pages](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml)  
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 Welcome! Below, you'll find links to our key platforms, including discussion
@@ -100,8 +102,6 @@ more information.
 
 - [neteng.pro](https://neteng.pro)
   - Current main site
-- [netwk.pro](https://netwk.pro)
-  - Site in active development (sneak peak)
 
 > 🚧 Website is currently a work in progress
 
