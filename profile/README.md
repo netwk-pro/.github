@@ -56,8 +56,6 @@ Welcome! This repository is the central hub for Network Pro Strategies (Network 
 
 Explore our Stack Overflow Team, join the conversation on Discord, and connect with our work through this GitHub organization.
 
-&nbsp;
-
 <!-- markdownlint-disable MD001 -->
 
 ### Table of Contents
