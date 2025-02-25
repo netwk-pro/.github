@@ -63,9 +63,10 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 - [Primary Repo](#repo)
 - [Link Hub](#links)
 - [Post Links](#posts)
-- [Discussions](#discuss)
 - [Website](#website)
 - [Discord](#discord)
+- [Discussions](#discuss)
+- [Stack Overflow Team](#stack)
 
 ---
 
@@ -85,10 +86,6 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 - [posts.neteng.pro](https://posts.neteng.pro)
 
-#### 🗨️ <a id="discuss">Discussions</a>
-
-- [discuss.neteng.pro](https://discuss.neteng.pro)
-
 #### 🌐 <a id="website">Website</a>
 
 - [netwk.pro](https://netwk.pro)
@@ -97,13 +94,21 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 - [discord.neteng.pro](https://discord.neteng.pro)
 
+#### 🗨️ <a id="discuss">Discussions</a>
+
+- [discuss.neteng.pro](https://discuss.neteng.pro)
+
+#### 📚 <a id="stack">Stack Overflow Team</a>
+
+- [stack.neteng.pro](https://stack.neteng.pro)
+
 &nbsp;
 
 <sub>[Top](#top)</sub>
 
 ---
 
-<code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
+<code style="background: none; border: none; border-radius: 0; font-size: 12px; height: 50vh; outline: none; resize: none; text-align: center; width: 100%;">
 
 **[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
@@ -115,7 +120,7 @@ either version 3 of the License, or (at your option) any later version.
 
 &nbsp;
 
-<span style="text-align: center; font-size: 14px; font-weight: bold;">
+<span style="font-size: 14px; font-weight: bold; text-align: center;">
 
 [Copyright and Licensing](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/LICENSE.md) &nbsp; | &nbsp; [Terms and Conditions](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/legal/TERMS.md)
 
