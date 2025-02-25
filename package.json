@@ -1,22 +1,16 @@
 {
-  "name": "org-profile-pub",
-  "version": "0.0.2",
-  "description": "The public organization profile for Network Engineering Pro on GitHub",
+  "name": "@neteng-pro/org-profile-pub",
+  "version": "0.0.3",
+  "description": "The public organization profile for Network Pro Strategies on GitHub",
   "keywords": [
-    "neteng-pro",
-    "android",
-    "linux",
-    "open",
-    "source",
-    "open-source",
-    "floss",
-    "foss",
+    "networking",
     "security",
-    "cybersecurity",
     "privacy",
-    "cyber security"
+    "cybersecurity",
+    "advisory",
+    "consulting"
   ],
-  "homepage": "https://github.com/NetEng-Pro/",
+  "homepage": "https://netwk.pro",
   "bugs": {
     "url": "https://github.com/NetEng-Pro/neteng-pro.github.io/issues"
   },
@@ -39,18 +33,8 @@
     "browserslist": "^4.24.4"
   },
   "devDependencies": {
-    "@eslint/js": "^9.20.0",
-    "eslint": "^8.57.1",
-    "eslint-config-prettier": "^10.0.1",
-    "globals": "^15.15.0",
+    "markdownlint": "^0.37.4",
     "prettier": "3.4.2"
   },
-  "browserslist": [
-    "defaults and fully supports es6-module",
-    "maintained node versions",
-    "last 2 node major versions",
-    "last 2 versions",
-    "not dead"
-  ],
   "lockFileVersion": 3
 }

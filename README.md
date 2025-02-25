@@ -1,16 +1,17 @@
-<!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
-<!-- This file is part of Network Engineering Pro -->
+<!-- =========================================================================
+SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
+This file is part of Network Pro.
+========================================================================== -->
 
 <!--
-Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro Strategies
 Copyright © 2024-2025 Scott Lopez
 
 ---
 
 I. Creative Commons Attribution 4.0 International
 
-Network Engineering Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
-To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
+Network Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0"). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
 
 Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially.
 You must give appropriate credit, provide a link to the License, and indicate if changes were made.
@@ -26,7 +27,7 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 
 II. GNU General Public License
 
-Network Engineering Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Network Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE.
@@ -48,51 +49,43 @@ Web: <https://bio.neteng.pro>
 
 # <a id="top">Stay Connected & Get Involved</a>
 
-[![Build/Test Webpack, Publish to npmjs](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml) [![Deploy static content to GitHub Pages](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml)  
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Build Webpack, Publish to Registries](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml)  
+[![NPM Version](https://img.shields.io/npm/v/%40neteng-pro%2Fnetwk-pro-web?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@neteng-pro/netwk-pro-web) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-Welcome! Below, you'll find links to our key platforms, including discussion
-forums, social media, and our main website—keeping you up to date with
-everything happening in the Network Engineering Pro community. Be sure to check
-out the [Project Board](https://github.com/orgs/NetEng-Pro/projects/3?pane=info)
-to track our progress and see the status of individual tasks.
+Welcome! This repository is the central hub for Network Pro Strategies (Network Pro), where we share insights, resources, and updates on our business services. Here, you'll find links to key platforms, including professional discussions, social media, and our main website&mdash;keeping you informed about the latest insights and updates.
 
-Ready to contribute and make a real impact? Use the first link to sign up for
-Network Engineering Pro and gain access to our GitHub organization, Slack
-workspace, and Stack Overflow Team.
-
-> 🌟 **Open to All Skill Levels**  
-> You **_don’t_** need coding experience to be a valuable contributor! There are
-> many ways to get involved, from testing tools to writing app reviews.
->
-> All we ask is an inquisitive mind, a passion for advancing Free and Open
-> Software, and a commitment to respectful collaboration.
+Explore our Stack Overflow Team, join the conversation on Discord, and connect with our work through this GitHub organization.
 
 &nbsp;
 
+<!-- markdownlint-disable MD001 -->
+
 ### Table of Contents
 
-- **_[Join the Community](#join)_**
+- [Primary Repo](#repo)
 - [Link Hub](#links)
+- [Post Links](#posts)
 - [Discussions](#discuss)
 - [Website](#website)
-- [Project Board](https://github.com/orgs/NetEng-Pro/projects/3?pane=info)
+- [Discord](#discord)
 
 ---
 
 ## Site List
 
-📌 Check out our
-[primary repo](https://github.com/NetEng-Pro/neteng-pro.github.io) as well for
-more information.
+#### 📦 <a id="repo">Primary Repo</a>
 
-#### 📋 <a id="join">Join the Community</a>
+<!-- markdownlint-enable MD001 -->
 
-- [join.neteng.pro](https://join.neteng.pro)
+- [NetEng-Pro/netwk-pro-web](https://github.com/NetEng-Pro/netwk-pro-web)
 
 #### 🔗 <a id="links">Link Hub</a>
 
 - [links.neteng.pro](https://links.neteng.pro)
+
+#### 📋 <a id="posts">Post Links</a>
+
+- [posts.neteng.pro](https://posts.neteng.pro)
 
 #### 🗨️ <a id="discuss">Discussions</a>
 
@@ -100,10 +93,11 @@ more information.
 
 #### 🌐 <a id="website">Website</a>
 
-- [neteng.pro](https://neteng.pro)
-  - Current main site
+- [netwk.pro](https://netwk.pro)
 
-> 🚧 Website is currently a work in progress
+#### 💬 <a id="discord">Discord</a>
+
+- [discord.neteng.pro](https://discord.neteng.pro)
 
 &nbsp;
 
@@ -111,26 +105,20 @@ more information.
 
 ---
 
-<!-- prettier-ignore-start -->
-<code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
+<code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none; text-align: center; font-size: 12px;">
 
-**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+**[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
 either version 3 of the License, or (at your option) any later version.
 
 </code>
-<!-- prettier-ignore-end -->
 
-This material is free to distribute, remix, adapt, and build upon for any
-purpose, including commercial use. As free software, it can be redistributed and
-modified under the
-[specified terms](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md#gnu-gpl).
+&nbsp;
 
-NetEng-Pro is provided **_as is_** and **_as available_** without any
-warranties, express or implied. The Licensor makes no representations or
-guarantees regarding the Licensed Material and assumes no liability for its use.
+<span style="text-align: center; font-size: 14px; font-weight: bold;">
 
-For details, see
-[Copyright and Licensing](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md).
+[Copyright and Licensing](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/LICENSE.md) &nbsp; | &nbsp; [Terms and Conditions](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/legal/TERMS.md)
+
+</span>
