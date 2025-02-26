@@ -49,7 +49,7 @@ Web: <https://bio.neteng.pro>
 
 # <a id="top">Stay Connected & Get Involved</a>
 
-[![Build Webpack, Publish to Registries](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/netwk-pro-web/actions/workflows/upload.yml)  
+[![Build Webpack, Publish to Registries](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml/badge.svg)](https://github.com/NetEng-Pro/neteng-pro.github.io/actions/workflows/upload.yml)  
 [![NPM Version](https://img.shields.io/npm/v/%40neteng-pro%2Fnetwk-pro-web?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@neteng-pro/netwk-pro-web) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 Welcome! This repository is the central hub for Network Pro Strategies (Network Pro), where we share insights, resources, and updates on our business services. Here, you'll find links to key platforms, including professional discussions, social media, and our main website&mdash;keeping you informed about the latest insights and updates.
@@ -76,7 +76,7 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 <!-- markdownlint-enable MD001 -->
 
-- [NetEng-Pro/netwk-pro-web](https://github.com/NetEng-Pro/netwk-pro-web)
+- [neteng-pro.github.io](https://github.com/NetEng-Pro/neteng-pro.github.io)
 
 #### 🔗 <a id="links">Link Hub</a>
 
@@ -122,6 +122,6 @@ either version 3 of the License, or (at your option) any later version.
 
 <span style="font-size: 14px; font-weight: bold; text-align: center;">
 
-[Copyright and Licensing](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/LICENSE.md) &nbsp; | &nbsp; [Terms and Conditions](https://github.com/NetEng-Pro/netwk-pro-web/blob/master/legal/TERMS.md)
+[Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md)
 
 </span>
