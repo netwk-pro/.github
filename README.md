@@ -4,8 +4,7 @@ This file is part of Network Pro.
 ========================================================================== -->
 
 <!--
-Network Pro Strategies
-Copyright © 2025 Scott Lopez
+Copyright © 2025 Network Pro Strategies (Network Pro)
 
 ---
 
@@ -47,12 +46,18 @@ Web: <https://bio.neteng.pro>
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
 
-# <a id="top">Stay Connected & Get Involved</a>
+<a name="top"></a>
+
+# Stay Connected & Get Involved
 
 [![Build Webpack, Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/webpack.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/upload.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/upload.yml)  
-[![NPM Version](https://img.shields.io/npm/v/%40neteng-pro%2Fnetwk-pro-web?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@neteng-pro/netwk-pro-web) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![npm Version](https://img.shields.io/npm/v/%40neteng-pro%2Fnetwk-pro-web?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@neteng-pro/netwk-pro-web) [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
 
-Welcome! This repository is the central hub for Network Pro Strategies (Network Pro), where we share insights, resources, and updates on our business services. Here, you'll find links to key platforms, including professional discussions, social media, and our main website&mdash;keeping you informed about the latest insights and updates.
+&nbsp;
+
+Welcome! This repository is the central hub for Network Pro Strategies (Network Pro), where we share insights, resources, and updates on our business services.
+
+Here, you'll find links to key platforms, including professional discussions, social media, and our main website&mdash;keeping you informed about the latest insights and updates.
 
 Explore our Stack Overflow Team, join the conversation on Discord, and connect with our work through this GitHub organization.
 
@@ -72,33 +77,47 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 ## Site List
 
-#### 📦 <a id="repo">Primary Repo</a>
+<a name="repo"></a>
+
+#### 📦 Primary Repo
 
 <!-- markdownlint-enable MD001 -->
 
 - [netwk-pro.github.io](https://github.com/netwk-pro/netwk-pro.github.io)
 
-#### 🔗 <a id="links">Link Hub</a>
+<a name="links"></a>
+
+#### 🔗 Link Hub
 
 - [links.neteng.pro](https://links.neteng.pro)
 
-#### 📋 <a id="posts">Post Links</a>
+<a name="posts"></a>
+
+#### 📋 Post Links
 
 - [posts.neteng.pro](https://posts.neteng.pro)
 
-#### 🌐 <a id="website">Website</a>
+<a name="website"></a>
+
+#### 🌐 Website
 
 - [netwk.pro](https://netwk.pro)
 
-#### 💬 <a id="discord">Discord</a>
+<a name="discord"></a>
+
+#### 💬 Discord
 
 - [discord.neteng.pro](https://discord.neteng.pro)
 
-#### 🗨️ <a id="discuss">Discussions</a>
+<a name="discuss"></a>
+
+#### 🗨️ Discussions
 
 - [discuss.neteng.pro](https://discuss.neteng.pro)
 
-#### 📚 <a id="stack">Stack Overflow Team</a>
+<a name="stack"></a>
+
+#### 📚 Stack Overflow Team
 
 - [stack.neteng.pro](https://stack.neteng.pro)
 
@@ -110,7 +129,8 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 <span style="font-size: 12px; font-weight: bold; text-align: center;">
 
-[Terms of Use](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/PRIVACY.md)
+[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/TERMS.md)  
+[Privacy Policy](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/PRIVACY.md) &nbsp; | &nbsp; [Licensing](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/LICENSE.md)
 
 </span>
 
@@ -118,8 +138,8 @@ Explore our Stack Overflow Team, join the conversation on Discord, and connect w
 
 <span style="font-size: 12px; text-align: center;">
 
-**[Network Pro Strategies](https://netwk.pro/)** (Network Pro)  
-Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
+Copyright &copy; 2025 by  
+**[Network Pro Strategies](https://netwk.pro/)** (Network Pro)
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
