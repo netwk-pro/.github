@@ -31,7 +31,6 @@
     "lint": "eslint .",
     "format": "prettier --check .",
     "lint:format": "eslint . && prettier --check .",
-    "mdlint": "npx markdownlint-cli2 '**/*.{md,markdown}' '!node_modules/**' '!dist/**' '!coverage/**'",
     "fix": "eslint --fix . && prettier --write .",
     "clean": "rm -rf dist/* && npm update",
     "ci": "rm -rf dist/* node_modules package-lock.json && npm install"
