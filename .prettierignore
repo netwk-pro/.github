@@ -11,9 +11,4 @@
 **/.hg
 **/dist
 **/node_modules
-**/assets/license
-postcss.config.js
 eslint.config.mjs
-babel.config.json
-build
-coverage
