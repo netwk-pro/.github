@@ -68,7 +68,7 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 <!-- markdownlint-disable MD051 -->
 
 - [Primary Repo](#repo)
-- [Legal Repo](#legal)
+- [Legal Document Repo](#legal)
 - [Link Hub](#links)
 - [Post Links](#posts)
 - [Website](#website)
