@@ -51,7 +51,7 @@ Web: <https://bio.neteng.pro>
 # Legal, Copyright, and Licensing
 
 **Network Pro Strategies**  
-**Effective Date:** April 14, 2025
+**Effective Date:** April 21, 2025
 
 &nbsp;
 
@@ -66,15 +66,15 @@ Web: <https://bio.neteng.pro>
 3. [Restrictions on Branding and Graphics](#branding)
 4. [Licensed Material Definition](#licensed-material)
 5. [License Terms](#licenses)
-   - [Dual Licensing Notes](#dlnotes)
-6. [Creative Commons License (CC BY 4.0)](#cc-by)
-7. [GNU General Public License (GPL)](#gnu-gpl)
-8. [Third-Party Code and Licenses](#third-party)
-9. [Prohibited Uses](#prohibited-uses)
-10. [Modifications and Liability Disclaimer](#disclaimer)
-11. [Contact](#contact)
-12. [Revisions](#revisions)
-13. [Attribution](#attribution)
+6. [Dual Licensing Notes](#dlnotes)
+7. [Creative Commons License (CC BY 4.0)](#cc-by)
+8. [GNU General Public License (GPL)](#gnu-gpl)
+9. [Third-Party Code and Licenses](#third-party)
+10. [Prohibited Uses](#prohibited-uses)
+11. [Modifications and Liability Disclaimer](#disclaimer)
+12. [Contact](#contact)
+13. [Revisions](#revisions)
+14. [Attribution](#attribution)
 
 ---
 
@@ -132,11 +132,9 @@ This work is dual-licensed under:
 - [Creative Commons Attribution 4.0 International (CC BY 4.0)](#cc-by)
 - [GNU General Public License v3.0 or later (GNU GPL)](#gnu-gpl)
 
-&nbsp;
-
 <a name="dlnotes"></a>
 
-### **Dual Licensing Notes**
+## 6. Dual Licensing Notes
 
 - You may choose to use the work under either license, or both where appropriate.
 - See Creative Commons FAQ: [Separate agreements](https://creativecommons.org/faq/#can-i-enter-into-separate-or-supplemental-agreements-with-users-of-my-work)
@@ -146,9 +144,9 @@ This work is dual-licensed under:
 
 <a name="cc-by"></a>
 
-## 6. Creative Commons Attribution 4.0 International
+## 6. Creative Commons License (CC BY 4.0)
 
-<sup>Formats: [HTML](https://legal.netwk.pro/html/CC-BY-4.0.html) | [Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://raw.githubusercontent.com/netwk-pro/netwk-pro-legal/refs/heads/master/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://raw.githubusercontent.com/netwk-pro/netwk-pro-legal/refs/heads/master/assets/license/CC-BY-4.0.xml)</sup>
+<sup>Formats: [HTML](https://legal.netwk.pro/html/CC-BY-4.0.html) | [Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.xml)</sup>
 
 Network Pro&trade; (the "Licensed Material") is licensed under **Creative
 Commons Attribution 4.0 International** (CC BY 4.0)
@@ -162,9 +160,9 @@ Permissions beyond the scope of this License—or instead of those permitted by 
 <code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
 
 - SPDX Reference:  
-  <https://spdx.org/licenses/CC-BY-4.0.html>
+  [https://spdx.org/licenses/CC-BY-4.0.html](https://spdx.org/licenses/CC-BY-4.0.html)
 - Canonical URL:  
-  <https://creativecommons.org/licenses/by/4.0/>
+  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 </code>
 
@@ -183,9 +181,9 @@ You should have received a copy of the GNU General Public License along with thi
 <code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
 
 - SPDX Reference:  
-   <https://spdx.org/licenses/GPL-3.0-or-later.html>
+   [https://spdx.org/licenses/GPL-3.0-or-later.html](https://spdx.org/licenses/GPL-3.0-or-later.html)
 - Canonical URL:  
-   <https://www.gnu.org/licenses/gpl-3.0.html>
+   [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
 </code>
 
@@ -250,7 +248,7 @@ This legal page may be updated to comply with legal or operational changes. The 
 ## 13. Attribution
 
 Website base structure provided by HTML5 Boilerplate:  
-<[https://html5boilerplate.com/](https://html5boilerplate.com/)>
+&lt;[https://html5boilerplate.com/](https://html5boilerplate.com/)>&gt;
 
 ```markdown
 Copyright (c) HTML5 Boilerplate
@@ -279,7 +277,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <div style="font-size: 12px; font-weight: bold; text-align: center;">
 
-[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use.html)  
+[Home](https://netwk.pro/) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use.html)  
 [Privacy Policy](https://netwk.pro/privacy.html) &nbsp; | &nbsp; Legal
 
 </div>
