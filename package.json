@@ -28,10 +28,11 @@
   "main": "README.md",
   "scripts": {
     "test": "mocha test/**/*.mjs",
-    "lint": "eslint .",
+    "test:coverage": "c8 mocha test/**/*.mjs",
+    "lint": "eslint --ignore-pattern node_modules/** --config eslint.config.mjs .",
     "format": "prettier --check .",
-    "lint:format": "eslint . && prettier --check .",
-    "fix": "eslint --fix . && prettier --write .",
+    "lint:format": "npm run lint && npm run format",
+    "fix": "eslint --ignore-pattern node_modules/** eslint.config.mjs --fix . && prettier --write .",
     "clean": "rm -rf dist/* && npm update",
     "ci": "rm -rf dist/* node_modules package-lock.json && npm install"
   },

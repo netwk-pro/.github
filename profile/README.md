@@ -71,6 +71,7 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 - [Legal Document Repo](#legal)
 - [Link Hub](#links)
 - [Post Links](#posts)
+- [FOSS Spotlight](#foss)
 - [Website](#website)
 - [Discord](#discord)
 - [Discussions](#discuss)
@@ -88,7 +89,7 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 
 <!-- markdownlint-enable MD001 -->
 
-- [netwk-pro/netwk-pro.github.io](https://github.com/netwk-pro/netwk-pro.github.io)
+- [netwk-pro.github.io](https://github.com/netwk-pro/netwk-pro.github.io)
 
 </section>
 
@@ -96,7 +97,7 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 
 #### ⚖️ Legal Document Repo & Portal
 
-- [netwk-pro/netwk-pro-legal](https://github.com/netwk-pro/netwk-pro-legal)
+- [netwk-pro-legal](https://github.com/netwk-pro/netwk-pro-legal)
 - [Legal Document Portal](https://legal.netwk.pro)
 
 </section>
@@ -115,6 +116,14 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 #### 📋 Post Links (Grid)
 
 - [posts.neteng.pro](https://posts.neteng.pro)
+
+</section>
+
+<section id="foss">
+
+#### 🤖 FOSS Spotlight
+
+- [foss.neteng.pro](https://foss.neteng.pro)
 
 </section>
 
