@@ -1,18 +1,14 @@
+# .gitignore
+#
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 # This file is part of Network Pro.
 #
-# Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,dreamweaver
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,dreamweaver
+# Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode
 
 
 ### Custom Ignores ###
-.github/workflows/disabled/
 .orig/
-.webpack_cache/
-python-venv/
-crypto.mjs
-server.mjs
-tests.mjs
 
 
 ### Node ###
@@ -154,13 +150,13 @@ out
 # SvelteKit build / generate output
 .svelte-kit
 
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/customData.json
 !.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
@@ -174,15 +170,4 @@ out
 .history
 .ionide
 
-
-### Dreamweaver ###
-# DW Dreamweaver added files
-_notes
-_compareTemp
-configs/
-dwsync.xml
-dw_php_codehinting.config
-*.mno
-
-
-# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,dreamweaver
+# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode

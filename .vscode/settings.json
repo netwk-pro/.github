@@ -1,15 +1,40 @@
 {
-  "prettier.configPath": ".prettierrc",
-  "prettier.htmlWhitespaceSensitivity": "strict",
-  "prettier.bracketSameLine": true,
-  "prettier.jsxSingleQuote": true,
-  "prettier.quoteProps": "consistent",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  // Editor settings
   "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  // ESLint configuration
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+  ],
+  "eslint.lintTask.enable": true,
   "eslint.useESLintClass": true,
   "eslint.useFlatConfig": true,
-  "eslint.lintTask.enable": true,
+  // Material for MkDocs schema
+  "yaml.schemas": {
+    "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
+  },
+  "yaml.customTags": [
+    "!ENV scalar",
+    "!ENV sequence",
+    "!relative scalar",
+    "tag:yaml.org,2002:python/name:material.extensions.emoji.to_svg",
+    "tag:yaml.org,2002:python/name:material.extensions.emoji.twemoji",
+    "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format",
+    "tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping"
+  ],
   "markdown.validate.ignoredLinks": [
     "#top",
     "#netwk-pro",

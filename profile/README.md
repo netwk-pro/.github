@@ -45,15 +45,15 @@ Web: <https://bio.neteng.pro>
 
 <section id="top">
 
-[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
-`CC-BY-4.0 OR GPL-3.0-or-later`
+<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
 
 # Stay Connected & Get Involved
 
 </section>
 
-[![Build Webpack, Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/webpack.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/webpack.yml) [![Deploy to GitHub Pages](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/upload.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/upload.yml)  
-[![npm Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&labelColor=fffff&color=0c7ebe)](https://www.npmjs.com/package/@networkpro/web) [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
+[![Build/Test, Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build.yml) [![Deploy to GitHub Pages](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/deploy.yml)  
+[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoColor=white&logoSize=auto&labelColor=grey&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/web) [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/CODE_OF_CONDUCT.md)
 
 Welcome! This repository is the central hub for **Network Pro Strategies (Network Pro&trade;)**, where we share insights, resources, and updates on our business services.
 
@@ -68,11 +68,12 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 <!-- markdownlint-disable MD051 -->
 
 - [Primary Repo](#repo)
-- [Legal Document Repo](#legal)
+- [Blog](#blog)
+- [Website](#website)
+- [FOSS Spotlight](#foss)
+- [Legal Documents](#legal)
 - [Link Hub](#links)
 - [Post Links](#posts)
-- [FOSS Spotlight](#foss)
-- [Website](#website)
 - [Discord](#discord)
 - [Discussions](#discuss)
 - [Stack Overflow Team](#stack)
@@ -93,12 +94,35 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 
 </section>
 
+<section id="blog">
+
+#### 🌐 Blog
+
+- [Network Pro&trade; Blog](https://netwk.pro/docs/blog/)
+
+</section>
+
+<section id="website">
+
+#### 🌐 Website
+
+- [netwk.pro](https://netwk.pro)
+
+</section>
+
+<section id="foss">
+
+#### 🤖 FOSS Spotlight
+
+- [foss.neteng.pro](https://foss.neteng.pro)
+
+</section>
+
 <section id="legal">
 
-#### ⚖️ Legal Document Repo & Portal
+#### ⚖️ Legal Documents
 
-- [netwk-pro-legal](https://github.com/netwk-pro/netwk-pro-legal)
-- [Legal Document Portal](https://legal.netwk.pro)
+- [Legal Documents](https://netwk.pro/docs/legal/)
 
 </section>
 
@@ -116,22 +140,6 @@ Explore our [Stack Overflow Team](#stack), join the conversation on [Discord](#d
 #### 📋 Post Links (Grid)
 
 - [posts.neteng.pro](https://posts.neteng.pro)
-
-</section>
-
-<section id="foss">
-
-#### 🤖 FOSS Spotlight
-
-- [foss.neteng.pro](https://foss.neteng.pro)
-
-</section>
-
-<section id="website">
-
-#### 🌐 Website
-
-- [netwk.pro](https://netwk.pro)
 
 </section>
 

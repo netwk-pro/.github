@@ -1,14 +1,15 @@
 {
   "name": "@netwk-pro/org-profile-pub",
-  "version": "0.0.10",
-  "description": "The public organization profile for Network Pro Strategies on GitHub",
+  "version": "0.0.11",
+  "description": "The GitHub public organization profile for Network Pro Strategies",
   "keywords": [
     "networking",
     "security",
     "privacy",
     "cybersecurity",
     "advisory",
-    "consulting"
+    "consulting",
+    "profile"
   ],
   "homepage": "https://netwk.pro",
   "bugs": {
@@ -26,21 +27,24 @@
   },
   "type": "module",
   "main": "README.md",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha test/**/*.mjs",
     "test:coverage": "c8 mocha test/**/*.mjs",
-    "lint": "eslint --ignore-pattern node_modules/** --config eslint.config.mjs .",
     "format": "prettier --check .",
-    "lint:format": "npm run lint && npm run format",
-    "fix": "eslint --ignore-pattern node_modules/** eslint.config.mjs --fix . && prettier --write .",
-    "clean": "rm -rf dist/* && npm update",
-    "ci": "rm -rf dist/* node_modules package-lock.json && npm install"
-  },
-  "dependencies": {
-    "browserslist": "^4.24.4"
+    "format:fix": "prettier --write .",
+    "lint": "eslint --ext .mjs,.js --config eslint.config.mjs --ignore-pattern node_modules/ .",
+    "lint:fix": "eslint --ext .mjs,.js --config eslint.config.mjs --ignore-pattern node_modules/  --fix .",
+    "lint:md": "npx markdownlint-cli2 \"**/*.{md,markdown}\" \"#node_modules/**\"",
+    "lint:all": "npm run lint && npm run lint:md && npm run format",
+    "checkout": "npm run test && npm run lint:all",
+    "clean": "rm -rf node_modules package-lock.json && npm install"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
+    "browserslist": "^4.24.5",
     "chai": "^5.2.0",
     "eslint": "^9.21.0",
     "eslint-config-prettier": "^10.0.2",
@@ -50,6 +54,5 @@
     "markdownlint-cli2": "^0.17.2",
     "mocha": "^11.1.0",
     "prettier": "3.4.2"
-  },
-  "lockFileVersion": 3
+  }
 }
