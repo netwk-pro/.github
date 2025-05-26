@@ -49,6 +49,12 @@
     "#posts",
     "#legal",
     "#stack",
-    "#foss"
+    "#foss",
+    "#blog"
+  ],
+  "cSpell.words": [
+    "foss",
+    "neteng",
+    "netwk"
   ]
 }
