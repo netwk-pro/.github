@@ -39,7 +39,7 @@
     "lint:md": "npx markdownlint-cli2 \"**/*.{md,markdown}\" \"#node_modules/**\"",
     "lint:all": "npm run lint && npm run lint:md && npm run format",
     "checkout": "npm run test && npm run lint:all",
-    "delete": "rm -rf build .svelte-kit node_modules package-lock.json",
+    "delete": "rm -rf node_modules package-lock.json",
     "clean": "npm run delete && npm cache clean --force && npm install",
     "upgrade": "npx npm-check-updates -u"
   },
