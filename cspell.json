@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["foss", "neteng", "Subsite", "subsites"],
+  "ignorePaths": [
+    ".gitignore",
+    ".gitattributes",
+    "**/node_modules/**",
+    "**/dist/**",
+    "**/coverage/**"
+  ],
+  "ignoreWords": [],
+  "enableFiletypes": ["javascript", "typescript", "json", "markdown", "html"],
+  "useGitignore": true
+}

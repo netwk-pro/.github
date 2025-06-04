@@ -1,13 +1,13 @@
 /* ==========================================================================
 eslint.config.mjs
 
+Copyright © 2025 Network Pro Strategies (Network Pro)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== */
 
 import js from "@eslint/js";
 import eslintConfigPrettier from "eslint-config-prettier";
-import mocha from "eslint-plugin-mocha";
 import globals from "globals";
 
 // Files and directories to ignore during linting
@@ -29,7 +29,6 @@ const IGNORED_FILES = [
 const GLOBALS = {
   ...globals.browser,
   ...globals.node,
-  ...globals.mocha,
   self: "readonly",
   location: "readonly",
   indexedDB: "readonly",
@@ -37,9 +36,7 @@ const GLOBALS = {
 
 // ESLint rules configuration
 const ESLINT_RULES = {
-  "mocha/no-exclusive-tests": "error",
-  "mocha/no-skipped-tests": "warn",
-  "mocha/no-hooks-for-single-case": "warn",
+  // Add general rules here if needed
 };
 
 export default [
@@ -47,7 +44,6 @@ export default [
   {
     files: ["**/*.mjs", "**/*.js"],
     ignores: IGNORED_FILES,
-    plugins: { mocha },
     languageOptions: {
       globals: GLOBALS,
       ecmaVersion: "latest",
