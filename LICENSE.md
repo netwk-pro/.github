@@ -197,7 +197,7 @@ Modifications, redistribution, or any use of the Licensed Material are performed
 
 ## 12. Support Disclaimer
 
-All support provided—whether through email, GitHub, community forums, or other channels—is offered “as-is” and **does not constitute any warranty, express or implied**. The Company, its affiliates, owners, operators, and contributors make no guarantees regarding response time, resolution, availability, or fitness for any particular purpose.
+All support provided—whether through email, GitHub, community forums, or other channels—is offered "as-is" and **does not constitute any warranty, express or implied**. The Company, its affiliates, owners, operators, and contributors make no guarantees regarding response time, resolution, availability, or fitness for any particular purpose.
 
 Bug fixes, security patches, or other support actions—whether provided voluntarily or in response to reported issues—do not imply any ongoing obligation, representation of completeness, or the creation of a warranty. All assistance is provided at the sole discretion of the Company and may be modified, reduced, or discontinued at any time without notice.
 
