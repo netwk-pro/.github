@@ -223,7 +223,7 @@ This legal page may be updated to comply with legal or operational changes. The 
 
 <a name="contact"></a>
 
-## 14. Contact
+## 15. Contact
 
 The Company may be contacted via our [Contact Form](https://netwk.pro/contact) or by email at:  
 📧 `support (at) neteng.pro`
