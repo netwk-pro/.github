@@ -1,15 +1,15 @@
 {
   "name": "@netwk-pro/org-profile-pub",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The GitHub public organization profile for Network Pro Strategies",
   "keywords": [
-    "networking",
-    "security",
-    "privacy",
-    "cybersecurity",
     "advisory",
     "consulting",
-    "profile"
+    "cybersecurity",
+    "networking",
+    "privacy",
+    "profile",
+    "security"
   ],
   "homepage": "https://netwk.pro",
   "bugs": {
@@ -26,19 +26,14 @@
     "url": "https://bio.neteng.pro"
   },
   "type": "module",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha test/**/*.mjs",
-    "test:coverage": "c8 mocha test/**/*.mjs",
     "format": "prettier --check .",
     "format:fix": "prettier --write .",
     "lint": "eslint . --ext .mjs,.js --ignore-pattern node_modules/",
     "lint:fix": "eslint . --ext .mjs,.js --ignore-pattern node_modules/ --fix",
     "lint:md": "npx markdownlint-cli2 \"**/*.{md,markdown}\" \"#node_modules/**\"",
     "lint:all": "npm run lint && npm run lint:md && npm run format",
-    "checkout": "npm run test && npm run lint:all",
+    "checkout": "npm run lint:all",
     "delete": "rm -rf node_modules package-lock.json",
     "clean": "npm run delete && npm cache clean --force && npm install",
     "upgrade": "npx npm-check-updates -u"
@@ -46,14 +41,11 @@
   "devDependencies": {
     "@eslint/js": "^9.28.0",
     "browserslist": "^4.25.0",
-    "chai": "^5.2.0",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
-    "eslint-plugin-mocha": "^11.1.0",
     "globals": "^16.2.0",
     "markdownlint": "^0.38.0",
     "markdownlint-cli2": "^0.18.1",
-    "mocha": "^11.5.0",
     "prettier": "3.5.3"
   }
 }
