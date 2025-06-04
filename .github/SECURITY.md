@@ -8,6 +8,8 @@ This file is part of Network Pro.
 
 **Effective Date:** June 3, 2025
 
+&nbsp;
+
 Thank you for taking the time to responsibly disclose any security issues you may find in Network Pro Strategies. The safety of our users and data is a top priority.
 
 ---

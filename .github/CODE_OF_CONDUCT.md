@@ -11,7 +11,7 @@ This file is part of Network Pro.
 </section>
 
 **Network Pro Strategies**  
-**Effective Date:** 3/21/2025
+**Effective Date:** March 21, 2025
 
 &nbsp;
 
