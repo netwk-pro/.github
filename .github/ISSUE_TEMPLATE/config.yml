@@ -20,11 +20,6 @@ contact_links:
     url: https://netwk.pro/contact?utm_source=github
     about: "Contact Network Pro Strategies for support or inquiries."
 issue_templates:
-  - name: 🐛 Bug Report
-    description: Report a bug or unexpected behavior in the platform.
-    labels: ["bug", "needs triage"]
-    file: bug_report.yml
-
   - name: ✨ Feature Request
     description: Suggest new or updated features to include in Network Pro Strategies.
     labels: ["feature"]
