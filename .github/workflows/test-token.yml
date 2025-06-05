@@ -1,0 +1,34 @@
+# .github/workflows/test-token.yml
+name: Test Token Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  token-test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Echo GitHub actor and repo
+        run: |
+          echo "Actor: ${{ github.actor }}"
+          echo "Repository: ${{ github.repository }}"
+
+      - name: Create a test issue (dry run)
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.NWPRO_ACTION }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues \
+            -d '{"title":"✅ Token Test Passed","body":"This issue was created by a workflow to confirm token access.","labels":["test"]}'
+        env:
+          GITHUB_TOKEN: ${{ secrets.NWPRO_ACTION }}
+
+# cspell:ignore nwpro
