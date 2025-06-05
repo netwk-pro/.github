@@ -7,9 +7,7 @@
 # This workflow will auto-assign an issue or PR to a specific user
 # when a new issue or PR is opened.
 
-# cspell:ignore pozil
-
-name: Auto Assign
+name: "Auto Assign"
 
 on:
   issues:
@@ -17,19 +15,20 @@ on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
 
+permissions:
+  issues: write
+  contents: read
+  pull-requests: write
+
 jobs:
   auto-assign:
     runs-on: ubuntu-24.04
 
-    permissions:
-      issues: write
-      pull-requests: write
-
     steps:
-      - name: Auto-assign issue or PR
+      - name: "Auto-assign issue or PR"
         uses: pozil/auto-assign-issue@v2
         with:
-          repo-token: ${{ secrets.GH_PAT }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: SunDevil311
           numOfAssignee: 1
           allowSelfAssign: true

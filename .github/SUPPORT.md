@@ -10,6 +10,8 @@ Thanks for your interest in **Network Pro Strategies** (Network Pro™)! We’re
 
 ---
 
+<!-- markdownlint-disable MD001 -->
+
 ## 📚 Technical Questions
 
 - [Stack Overflow Teams – `networkpro` tag](https://stack.neteng.pro)
@@ -25,8 +27,20 @@ Thanks for your interest in **Network Pro Strategies** (Network Pro™)! We’re
 - [Privacy Rights Request Form](https://netwk.pro/privacy-rights)
 - Email: `support (at) neteng.pro`
 
+<!-- markdownlint-enable MD001 -->
+
 ---
 
-If you're reporting a **bug** or submitting a **feature request**, please use the appropriate GitHub issue template in the [main repository](https://github.com/netwk-pro/netwk-pro.github.io/issues/new/choose).
+## 🧭 How to Get Support or Report an Issue
+
+We encourage users to use our [structured issue templates](https://github.com/netwk-pro/netwk-pro.github.io/issues/new/choose) when possible. These templates help us respond more efficiently by gathering key information up front.
+
+However, we understand that not all problems fit neatly into predefined categories.
+
+- If you're unsure which template to use, or your situation doesn't fit any of them, you can still [open a blank issue](https://github.com/netwk-pro/netwk-pro.github.io/issues/new).
+- If you need help getting started, feel free to post in our [GitHub Discussions](https://github.com/netwk-pro/netwk-pro.github.io/discussions) or [join our Discord community](https://discord.neteng.pro/).
+- Please be as descriptive as possible — especially when reporting bugs — so we can assist you quickly.
+
+We value every contribution and will do our best to help you regardless of how you report an issue.
 
 Thanks for helping improve Network Pro!

@@ -1,7 +1,13 @@
 {
   "version": "0.2",
   "language": "en",
-  "words": ["foss", "neteng", "Subsite", "subsites"],
+  "words": [
+    "foss",
+    "neteng",
+    "pozil",
+    "Subsite",
+    "subsites"
+  ],
   "ignorePaths": [
     ".gitignore",
     ".gitattributes",
@@ -10,6 +16,12 @@
     "**/coverage/**"
   ],
   "ignoreWords": [],
-  "enableFiletypes": ["javascript", "typescript", "json", "markdown", "html"],
+  "enableFiletypes": [
+    "javascript",
+    "typescript",
+    "json",
+    "markdown",
+    "html"
+  ],
   "useGitignore": true
 }
