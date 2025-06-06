@@ -8,8 +8,8 @@ This file is part of Network Pro.
 
 <section id="top">
 
-<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
-`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
+[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`
 
 # Stay Connected & Get Involved
 
@@ -48,10 +48,13 @@ Monitor status and deployment pipelines across our major services:
 
 ---
 
-Welcome to the official GitHub organization for **Network Pro Strategies (Network Pro™)**.  
-Here, you’ll find resources, open-source tooling, documentation, and deployment pipelines that power our public platforms.
+Welcome to the official GitHub organization for **Network Pro Strategies
+(Network Pro™)**.  
+Here, you’ll find resources, open-source tooling, documentation, and deployment
+pipelines that power our public platforms.
 
-Stay up to date, get involved, or contribute via our main website, blog, documentation hub, and discussions.
+Stay up to date, get involved, or contribute via our main website, blog,
+documentation hub, and discussions.
 
 <!-- markdownlint-disable MD001 -->
 
@@ -76,7 +79,8 @@ Stay up to date, get involved, or contribute via our main website, blog, documen
 #### 📦 Website / Primary Repo
 
 - Web: [netwk.pro](https://netwk.pro)
-- GitHub: [netwk-pro/netwk-pro.github.io](https://github.com/netwk-pro/netwk-pro.github.io)
+- GitHub:
+  [netwk-pro/netwk-pro.github.io](https://github.com/netwk-pro/netwk-pro.github.io)
 
 </section>
 
@@ -135,6 +139,8 @@ Stay up to date, get involved, or contribute via our main website, blog, documen
 
 </section>
 
+<br />
+
 <section id="discord">
 
 #### 💬 Discord
@@ -167,8 +173,10 @@ Stay up to date, get involved, or contribute via our main website, blog, documen
 
 <span style="font-size: 12px; font-weight: bold; text-align: center;">
 
-[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use)  
-[Privacy Policy](https://netwk.pro/privacy) &nbsp; | &nbsp; [Legal](https://netwk.pro/license)
+[Home](https://netwk.pro) &nbsp; | &nbsp;
+[Terms of Use](https://netwk.pro/terms-of-use)  
+[Privacy Policy](https://netwk.pro/privacy) &nbsp; | &nbsp;
+[Legal](https://netwk.pro/license)
 
 </span>
 
@@ -179,8 +187,13 @@ Stay up to date, get involved, or contribute via our main website, blog, documen
 Copyright &copy; 2025  
 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks...&trade;" slogan are [trademarks](https://netwk.pro/license#trademark) of Network Pro Strategies.
+Network Pro&trade;, the shield logo, and the "Locking Down Networks...&trade;"
+slogan are [trademarks](https://netwk.pro/license#trademark) of Network Pro
+Strategies.
 
-Licensed under **[CC BY 4.0](https://netwk.pro/license#cc-by)** and the **[GNU GPL](https://netwk.pro/license#gnu-gpl)**, as published by the [Free Software Foundation](https://www.fsf.org), either version 3 of the License, or (at your option) any later version.
+Licensed under **[CC BY 4.0](https://netwk.pro/license#cc-by)** and the
+**[GNU GPL](https://netwk.pro/license#gnu-gpl)**, as published by the
+[Free Software Foundation](https://www.fsf.org), either version 3 of the
+License, or (at your option) any later version.
 
 </span>

@@ -23,7 +23,7 @@ If you discover a security issue, please report it privately:
 - **PGP Key**: [PGP-KEY.asc](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc)
 - **PGP Fingerprint:**  
   `B7FE 1D4E 6CAB 3E71 4A9F  DF6E 48CB 7290 C00D 0DA5`
-- **PGP Setup Guide**: [How to encrypt with PGP (GitHub Wiki)](https://github.com/netwk-pro/.github/wiki/PGP-Guide)
+- **PGP Setup Guide**: [How to encrypt with PGP (GitHub Wiki)](https://github.com/netwk-pro/netwk-pro.github.io/wiki/01-PGP-Howto)
 
 > _**NOTE:** PGP Setup Guide coming soon to the GitHub Wiki._
 
@@ -49,7 +49,7 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.11.x (1.12.0 upcoming) | ✅ 1.10.x and newer |
+| Main site     | 1.12.x           | ✅ 1.11.x and newer |
 | Blog          | 1.1.x            | ✅ 1.1.x |
 | Docs          | 1.1.x            | ✅ 1.1.x |
 | Any 0.x       | N/A              | ❌ Not supported |

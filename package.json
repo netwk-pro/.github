@@ -1,6 +1,6 @@
 {
   "name": "@netwk-pro/org-profile-pub",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "The GitHub public organization profile for Network Pro Strategies",
   "keywords": [
     "advisory",
@@ -13,7 +13,7 @@
   ],
   "homepage": "https://netwk.pro",
   "bugs": {
-    "url": "https://github.com/netwk-pro/netwk-pro.github.io/issues"
+    "url": "https://github.com/netwk-pro/netwk-pro.github.io/issues/new/choose"
   },
   "repository": {
     "type": "git",
@@ -29,21 +29,15 @@
   "scripts": {
     "format": "prettier --check .",
     "format:fix": "prettier --write .",
-    "lint": "eslint . --ext .mjs,.js --ignore-pattern node_modules/",
-    "lint:fix": "eslint . --ext .mjs,.js --ignore-pattern node_modules/ --fix",
     "lint:md": "npx markdownlint-cli2 \"**/*.{md,markdown}\" \"#node_modules/**\"",
-    "lint:all": "npm run lint && npm run lint:md && npm run format",
+    "lint:all": "npm run lint:md && npm run format",
     "checkout": "npm run lint:all",
     "delete": "rm -rf node_modules package-lock.json",
     "clean": "npm run delete && npm cache clean --force && npm install",
     "upgrade": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "@eslint/js": "^9.28.0",
     "browserslist": "^4.25.0",
-    "eslint": "^9.28.0",
-    "eslint-config-prettier": "^10.1.5",
-    "globals": "^16.2.0",
     "markdownlint": "^0.38.0",
     "markdownlint-cli2": "^0.18.1",
     "prettier": "3.5.3"

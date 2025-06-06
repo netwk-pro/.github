@@ -6,26 +6,24 @@ blank_issues_enabled: true
 contact_links:
   - name: 🐛 File a Bug Report
     url: https://github.com/netwk-pro/netwk-pro.github.io/issues/new?template=bug_report.yml
-    about: "Please open all bug reports in the main repository."
+    about: Please open all bug reports in the main repository.
 
-  - name: Ask the community
-    url: https://github.com/netwk-pro/netwk-pro.github.io/discussions
-    about: "Ask and discuss questions with other Network Pro Strategies community members."
-
-  - name: Commonly asked questions
-    url: https://stackoverflowteams.com/c/netwk-pro/questions
-    about: "Ask and answer common questions on Stack Overflow Teams."
-
-  - name: Contact Network Pro Strategies
-    url: https://netwk.pro/contact?utm_source=github
-    about: "Contact Network Pro Strategies for support or inquiries."
-issue_templates:
   - name: ✨ Feature Request
-    description: Suggest new or updated features to include in Network Pro Strategies.
-    labels: ["feature"]
-    file: feature_request.yml
+    url: https://github.com/netwk-pro/netwk-pro.github.io/issues/new?template=feature_request.yml
+    about: Suggest new or updated features in the main repository.
 
-  - name: ⚖️ Legal Review
-    description: Request review or update of legal or compliance documents.
-    labels: ["legal-docs", "legal review", "documentation"]
-    file: legal_review.yml
+  - name: ⚖️ Legal or Compliance Issue
+    url: https://github.com/netwk-pro/netwk-pro.github.io/issues/new?template=legal_review.yml
+    about: Raise legal or policy-related issues centrally.
+
+  - name: Ask the Community
+    url: https://discuss.neteng.pro
+    about: Join the GitHub Discussions forum to get support from the community.
+
+  - name: Stack Overflow (Internal Team)
+    url: https://stack.neteng.pro
+    about: Search or post questions in our internal Stack Overflow for Teams instance.
+
+  - name: Contact Network Pro
+    url: https://netwk.pro/contact?utm_source=github
+    about: Contact us directly for help or private inquiries.

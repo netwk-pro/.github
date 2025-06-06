@@ -3,7 +3,7 @@
   "tabWidth": 2,
   "useTabs": false,
   "semi": true,
-  "singleQuote": false,
+  "singleQuote": true,
   "quoteProps": "as-needed",
   "jsxSingleQuote": true,
   "trailingComma": "all",
@@ -13,9 +13,17 @@
   "arrowParens": "always",
   "requirePragma": false,
   "insertPragma": false,
-  "proseWrap": "preserve",
+  "proseWrap": "always",
   "htmlWhitespaceSensitivity": "strict",
   "endOfLine": "lf",
   "embeddedLanguageFormatting": "auto",
-  "singleAttributePerLine": false
+  "singleAttributePerLine": false,
+  "overrides": [
+    {
+      "files": "*.jsonc",
+      "options": {
+        "trailingComma": "none"
+      }
+    }
+  ]
 }
