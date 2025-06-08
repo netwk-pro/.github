@@ -6,6 +6,7 @@ This file is part of Network Pro.
 
 # 🔐 Security Policy
 
+**Network Pro Strategies**  
 **Effective Date:** June 3, 2025
 
 &nbsp;
@@ -50,7 +51,7 @@ The following repositories are covered under this policy:
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
 | Main site     | 1.12.x           | ✅ 1.11.x and newer |
-| Blog          | 1.1.x            | ✅ 1.1.x |
+| Blog          | 1.2.x            | ✅ 1.1.x |
 | Docs          | 1.1.x            | ✅ 1.1.x |
 | Any 0.x       | N/A              | ❌ Not supported |
 

@@ -10,6 +10,7 @@ This file is part of Network Pro.
 
 </section>
 
+**Network Pro Strategies**  
 **Effective Date:** June 3, 2025
 
 &nbsp;
