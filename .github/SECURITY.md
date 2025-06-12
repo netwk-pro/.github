@@ -26,7 +26,9 @@ If you discover a security issue, please report it privately:
   `B7FE 1D4E 6CAB 3E71 4A9F DF6E 48CB 7290 C00D 0DA5`
 - **PGP Setup Guide**: [How to encrypt with PGP (GitHub Wiki)](https://github.com/netwk-pro/netwk-pro.github.io/wiki/01-PGP-Howto)
 
-Messages are protected with Proton Mail’s built-in encryption. For **end-to-end encryption**, use our [PGP key](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc) with any email client or [GPG](https://gnupg.org)-compatible tool.
+Email to `s.neteng.pro` addresses is secured by Proton Mail’s built-in encryption. For full end-to-end protection, encrypt your message using our [PGP key](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc) with your preferred email client or a [GPG-compatible tool](https://gnupg.org).
+
+> **Note:** Proton Mail is used for all addresses under the `s.neteng.pro` domain. Other addresses (e.g., `support@neteng.pro`) support OpenPGP encryption using their published keys, available at [/pgp](https://netwk.pro/pgp).
 
 Please include:
 
