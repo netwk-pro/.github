@@ -126,8 +126,6 @@ documentation hub, and discussions.
 
 </section>
 
-<br />
-
 <section id="posts">
 
 <details>
