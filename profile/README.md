@@ -117,6 +117,7 @@ documentation hub, and discussions.
 <section id="links">
 
 <details>
+
 <summary><strong>🔗 Link Hubs</strong></summary>
 
 - Business/Platform Links: [links.neteng.pro](https://links.neteng.pro)
@@ -125,6 +126,8 @@ documentation hub, and discussions.
 </details>
 
 </section>
+
+<br />
 
 <section id="posts">
 
@@ -136,8 +139,6 @@ documentation hub, and discussions.
 </details>
 
 </section>
-
-<br />
 
 <section id="discord">
 
