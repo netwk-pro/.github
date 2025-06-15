@@ -7,7 +7,7 @@ This file is part of Network Pro.
 # 🔐 Security Policy
 
 **Network Pro Strategies**  
-**Effective Date:** June 11, 2025
+**Effective Date:** June 14, 2025
 
 &nbsp;
 
@@ -24,7 +24,7 @@ If you discover a security issue, please report it privately:
 - **PGP Key**: [PGP-KEY.asc](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc)
 - **PGP Fingerprint:**  
   `B7FE 1D4E 6CAB 3E71 4A9F DF6E 48CB 7290 C00D 0DA5`
-- **PGP Setup Guide**: [How to encrypt with PGP (GitHub Wiki)](https://github.com/netwk-pro/netwk-pro.github.io/wiki/01-PGP-Howto)
+- **PGP Setup Guide**: [How to encrypt with PGP (GitHub Wiki)](https://github.com/netwk-pro/netwk-pro.github.io/wiki/Getting-Started-with-PGP)
 
 Email to `s.neteng.pro` addresses is secured by Proton Mail’s built-in encryption. For full end-to-end protection, encrypt your message using our [PGP key](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc) with your preferred email client or a [GPG-compatible tool](https://gnupg.org).
 
