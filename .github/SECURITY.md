@@ -7,7 +7,7 @@ This file is part of Network Pro.
 # 🔐 Security Policy
 
 **Network Pro Strategies**  
-**Effective Date:** June 14, 2025
+**Effective Date:** July 1, 2025
 
 &nbsp;
 
