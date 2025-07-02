@@ -1,5 +1,5 @@
 <!-- =========================================================================
-README.md
+profile/README.md
 
 Copyright © 2025 Network Pro Strategies (Network Pro)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
@@ -11,36 +11,34 @@ This file is part of Network Pro.
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
 
-# Stay Connected & Get Involved
+# CI Status
 
 </section>
-
-## 🚦 CI Status
-
-Monitor status and deployment pipelines across our major services:
 
 **🔗 Real-time Uptime:**  
 [status.netwk.pro](https://status.netwk.pro)
 
+Monitor status and deployment pipelines across our major services:
+
 ---
 
-### 🌐 Main Website ([`@networkpro/web`](https://www.npmjs.com/package/@networkpro/web))
+## 🌐 Main Website ([`@networkpro/web`](https://github.com/netwk-pro/netwk-pro.github.io))
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/93910633-3fdb-4bb3-a9bf-5d91ccfeebf9/deploy-status)](https://app.netlify.com/projects/networkpro-web/deploys)
 [![Build and Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/web)
 
----
+&nbsp;
 
-### 📝 Blog ([`@networkpro/blog`](https://www.npmjs.com/package/@networkpro/blog))
+## 📝 Blog ([`@networkpro/blog`](https://github.com/netwk-pro/blog))
 
 [![Deploy to GH Pages](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml)
 [![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fblog?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/blog)
 
----
+&nbsp;
 
-### 📚 Docs ([`@networkpro/docs`](https://www.npmjs.com/package/@networkpro/docs))
+## 📚 Docs ([`@networkpro/docs`](https://github.com/netwk-pro/docs))
 
 [![Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml)
 [![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
@@ -112,15 +110,13 @@ documentation hub, and discussions.
 
 </section>
 
-<br />
-
 <section id="links">
 
 <details>
 
 <summary><strong>🔗 Link Hubs</strong></summary>
 
-- Business/Platform Links: [links.neteng.pro](https://links.neteng.pro)
+- Business/Platform Links: [netwk.pro/links](https://netwk.pro/links)
 - Security and Privacy Tools: [security.neteng.pro](https://security.neteng.pro)
 
 </details>
@@ -134,7 +130,7 @@ documentation hub, and discussions.
 <details>
 <summary><strong>📋 Post Links (Grid)</strong></summary>
 
-- [posts.neteng.pro](https://posts.neteng.pro)
+- [netwk.pro/posts](https://netwk.pro/posts)
 
 </details>
 
