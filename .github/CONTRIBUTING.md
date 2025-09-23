@@ -120,8 +120,8 @@ Before large PRs (new features, refactors, dependency upgrades), please check wi
 2. **Stay Updated**
 
    ```bash
-   git checkout main
-   git pull upstream main
+   git checkout master
+   git pull upstream master
    ```
 
 3. **Create a topic branch:**
@@ -134,8 +134,7 @@ Before large PRs (new features, refactors, dependency upgrades), please check wi
 
    ```bash
    npm ci
-   npm run lint
-   npm run test
+   npm run checkout
    ```
 
 5. **Make your changes**
