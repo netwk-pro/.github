@@ -133,7 +133,9 @@ Before large PRs (new features, refactors, dependency upgrades), please check wi
 4. **Install & test locally:**
 
    ```bash
-   npm ci
+   cp .env.template .env
+   npm install
+   npx playwright install
    npm run checkout
    ```
 

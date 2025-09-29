@@ -37,7 +37,7 @@
     "upgrade": "npx npm-check-updates -u"
   },
   "devDependencies": {
-    "browserslist": "^4.25.1",
+    "browserslist": "^4.26.2",
     "markdownlint": "^0.38.0",
     "markdownlint-cli2": "^0.18.1",
     "prettier": "3.6.2"
