@@ -1,5 +1,5 @@
 <!-- =========================================================================
-profile/README.md
+README.md
 
 Copyright © 2025 Network Pro Strategies (Network Pro)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
@@ -24,7 +24,7 @@ Monitor status and deployment pipelines across our major services:
 
 ## 🌐 Main Website ([`@networkpro/web`](https://github.com/netwk-pro/netwk-pro.github.io))
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/93910633-3fdb-4bb3-a9bf-5d91ccfeebf9/deploy-status)](https://app.netlify.com/projects/networkpro-web/deploys)
+[![Vercel](https://img.shields.io/github/deployments/netwk-pro/netwk-pro.github.io/Production?label=vercel&logo=vercel)](https://vercel.com)
 [![Build and Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/web)
 
