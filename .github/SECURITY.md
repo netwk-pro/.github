@@ -50,7 +50,7 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.17.2           | ✅ 1.17.x and newer |
+| Main site     | 1.18.3           | ✅ 1.18.x and newer |
 | Blog          | 1.5.0            | ✅ 1.5.x |
 | Docs          | 1.3.0            | ✅ 1.3.x |
 | Any 0.x       | N/A              | ❌ Not supported |
