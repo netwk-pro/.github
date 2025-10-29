@@ -50,9 +50,9 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.18.3           | ✅ 1.18.x and newer |
-| Blog          | 1.5.0            | ✅ 1.5.x |
-| Docs          | 1.3.0            | ✅ 1.3.x |
+| Main site     | 1.22.1           | ✅ 1.22.x and newer |
+| Blog          | 1.5.4            | ✅ 1.5.x and newer |
+| Docs          | 1.3.6            | ✅ 1.3.x and newer |
 | Any 0.x       | N/A              | ❌ Not supported |
 
 Versions earlier than 1.0.0 are out of scope for support unless a critical vulnerability affects downstream users.
