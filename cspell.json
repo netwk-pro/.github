@@ -3,6 +3,7 @@
   "language": "en",
   "words": [
     "foss",
+    "ncurc",
     "neteng",
     "netwk",
     "networkpro",
@@ -18,12 +19,6 @@
     "**/coverage/**"
   ],
   "ignoreWords": [],
-  "enableFiletypes": [
-    "javascript",
-    "typescript",
-    "json",
-    "markdown",
-    "html"
-  ],
+  "enableFiletypes": ["javascript", "typescript", "json", "markdown", "html"],
   "useGitignore": true
 }
