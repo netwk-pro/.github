@@ -286,7 +286,9 @@ Before starting large PRs (new features, major refactors, or dependency upgrades
 4. **Install:**
 
    ```bash
+   cp .env.template .env
    npm ci
+   npx playwright install
    ```
 
 5. **Make and commit your changes:**
