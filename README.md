@@ -110,6 +110,8 @@ documentation hub, and discussions.
 
 </section>
 
+<br />
+
 <section id="links">
 
 <details>
@@ -122,8 +124,6 @@ documentation hub, and discussions.
 </details>
 
 </section>
-
-<br />
 
 <section id="posts">
 

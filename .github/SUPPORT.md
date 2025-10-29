@@ -1,8 +1,13 @@
 <!-- =========================================================================
+.github/SUPPORT.md
+
 Copyright © 2025 Network Pro Strategies (Network Pro™)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== -->
+
+<sup>[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
+`CC-BY-4.0 OR GPL-3.0-or-later`</sup>
 
 # 🛠 Support
 
@@ -25,7 +30,7 @@ Thanks for your interest in **Network Pro Strategies** (Network Pro™)! We’re
 
 - [General Contact Form](https://netwk.pro/contact)
 - [Privacy Rights Request Form](https://netwk.pro/privacy-rights)
-- Email: `support (at) neteng.pro`
+- Email: `support (at) netwk.pro`
 
 <!-- markdownlint-enable MD001 -->
 
