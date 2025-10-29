@@ -19,12 +19,6 @@
     "**/coverage/**"
   ],
   "ignoreWords": [],
-  "enableFiletypes": [
-    "javascript",
-    "typescript",
-    "json",
-    "markdown",
-    "html"
-  ],
+  "enableFiletypes": ["javascript", "typescript", "json", "markdown", "html"],
   "useGitignore": true
 }
