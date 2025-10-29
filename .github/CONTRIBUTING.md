@@ -120,7 +120,9 @@ Before opening a pull request, please make sure your environment and commits fol
 Install dependencies with:
 
 ```bash
+cp .env.template .env
 npm ci
+npx playwright install
 ```
 
 ### 🪶 Code Style & Linting
