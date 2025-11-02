@@ -12,11 +12,27 @@ This file is part of Network Pro.
 # 🔐 Security Policy
 
 **Network Pro Strategies**  
-**Effective Date:** September 23, 2025
+**Effective Date:** November 2, 2025
 
 &nbsp;
 
 Thank you for taking the time to responsibly disclose any security issues you may find in Network Pro Strategies. The safety of our users and data is a top priority.
+
+---
+
+## Automated Scanning and Audits
+
+Network Pro&trade; maintains continuous security coverage across multiple layers:
+
+| Category | Tool / Workflow | Frequency |
+|-----------|----------------|------------|
+| **SAST** | GitLeaks, CodeQL | On push, PR, nightly |
+| **DAST** | Probely | Weekly (Tuesday, 9 AM UTC) |
+| **Dependency Audit** | npm audit | Every build (non-blocking) |
+| **Dependency Updates** | Dependabot | As needed |
+| **Code Quality** | ESLint, Prettier, etc. (local) | Developer pre-commit |
+
+Results from these scans are surfaced in the GitHub Security tab or workflow artifacts.
 
 ---
 
@@ -33,7 +49,7 @@ If you discover a security issue, please report it privately:
 
 Email to `s.neteng.pro` addresses is secured by Proton Mail’s built-in encryption. For full end-to-end protection, encrypt your message using our [PGP key](https://raw.githubusercontent.com/netwk-pro/.github/master/PGP-KEY.asc) with your preferred email client or a [GPG-compatible tool](https://gnupg.org).
 
-> **Note:** Proton Mail is used for all addresses under the `s.neteng.pro` domain. Other addresses (e.g., `support@neteng.pro`) support OpenPGP encryption using their published keys, available at [/pgp](https://netwk.pro/pgp).
+> **Note:** Proton Mail is used for all addresses under the `s.neteng.pro` domain. Other addresses (e.g., `support@netwk.pro`) support OpenPGP encryption using their published keys, available at [/pgp](https://netwk.pro/pgp).
 
 Please include:
 
@@ -55,7 +71,7 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.22.1           | ✅ 1.22.x and newer |
+| Main site     | 1.24.3           | ✅ 1.24.x and newer |
 | Blog          | 1.5.4            | ✅ 1.5.x and newer |
 | Docs          | 1.3.6            | ✅ 1.3.x and newer |
 | Any 0.x       | N/A              | ❌ Not supported |
@@ -80,7 +96,7 @@ All support provided—whether through email, GitHub, community forums, or other
 
 &nbsp;
 
-Please see the "[Support Disclaimer](https://netwk.pro/license#support)" on our [Legal, Copyright, and Licensing](https://netwk.pro/license) page for full details.
+Please see the **[Support Disclaimer](https://netwk.pro/legal#support)** on our [Legal, Copyright, and Licensing](https://netwk.pro/legal) page for full details.
 
 ---
 

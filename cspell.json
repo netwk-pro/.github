@@ -8,6 +8,7 @@
     "netwk",
     "networkpro",
     "pozil",
+    "Probely",
     "Subsite",
     "subsites"
   ],
@@ -19,6 +20,12 @@
     "**/coverage/**"
   ],
   "ignoreWords": [],
-  "enableFiletypes": ["javascript", "typescript", "json", "markdown", "html"],
+  "enableFiletypes": [
+    "javascript",
+    "typescript",
+    "json",
+    "markdown",
+    "html"
+  ],
   "useGitignore": true
 }

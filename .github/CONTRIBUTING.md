@@ -357,8 +357,8 @@ Before starting large PRs (new features, major refactors, or dependency upgrades
 
 By submitting a pull request, you agree to license your contributions under:
 
-- [CC BY 4.0](https://netwk.pro/license#cc-by)
-- [GNU GPL 3.0 or later](https://netwk.pro/license#gnu-gpl)
+- [CC BY 4.0](https://netwk.pro/legal#cc-by)
+- [GNU GPL 3.0 or later](https://netwk.pro/legal#gnu-gpl)
 
 &nbsp;
 
@@ -384,8 +384,8 @@ _Thanks again for your contribution and for being part of the Network Pro&trade;
 Copyright &copy; 2025
 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks...&trade;" slogan are [trademarks](https://netwk.pro/license#trademark) of Network Pro Strategies.
+Network Pro&trade;, the shield logo, and the "Locking Down Networks...&trade;" slogan are [trademarks](https://netwk.pro/legal#trademark) of Network Pro Strategies.
 
-Licensed under **[CC BY 4.0](https://netwk.pro/license#cc-by)** and the **[GNU GPL](https://netwk.pro/license#gnu-gpl)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Licensed under **[CC BY 4.0](https://netwk.pro/legal#cc-by)** and the **[GNU GPL](https://netwk.pro/legal#gnu-gpl)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 </span>
