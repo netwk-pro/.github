@@ -113,7 +113,7 @@ Before opening a pull request, please make sure your environment and commits fol
 
 ### 🧱 Prerequisites
 
-- **Node.js:** v22.x (LTS)
+- **Node.js:** v24.x (LTS)
 - **npm:** v11.x  
   _(See package.json → `engines` field for exact supported versions.)_
 
