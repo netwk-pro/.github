@@ -14,7 +14,7 @@ This file is part of Network Pro.
 # Legal, Copyright, and Licensing
 
 **Network Pro Strategies**  
-**Effective Date:** June 3, 2025
+**Effective Date:** June 4, 2025
 
 **Official Version Notice**  
 This document is provided for convenience only. In the event of any discrepancy,
@@ -47,15 +47,15 @@ the authoritative version is the one published at
 
 ---
 
-**Formats Available:** [HTML](https://netwk.pro/license) | Markdown
+**Formats Available:** [HTML](https://netwk.pro/legal) | Markdown
 
 <a name="ownership"></a>
 
 ## 1. Copyright
 
 All content—including text, software, logos, graphics, documentation, and other
-materials—provided by **Network Pro Strategies** (“Network Pro”, “Company”,
-“Licensor”) is protected by U.S. and international copyright laws.
+materials—provided by **Network Pro Strategies** (“Network Pro&trade;”,
+“Company”, “Licensor”) is protected by U.S. and international copyright laws.
 
 Copyright &copy; 2025 **[Network Pro Strategies](https://netwk.pro)** (Network
 Pro&trade;)
@@ -131,11 +131,11 @@ This work is dual-licensed under:
 
 ## 7. Creative Commons License (CC BY 4.0)
 
-<sup>Formats: [HTML](https://netwk.pro/assets/license/CC-BY-4.0.html) |
-[Markdown](https://netwk.pro/assets/license/CC-BY-4.0.md) |
-[Text](https://netwk.pro/assets/license/CC-BY-4.0.txt) |
-[RDFa](https://netwk.pro/assets/license/CC-BY-4.0-rdfa.xml) |
-[XMP](https://netwk.pro/assets/license/CC-BY-4.0.xml)</sup>
+<sup>View / Download: [HTML](https://netwk.pro/bin/license/CC-BY-4.0.html) |
+[Markdown](https://netwk.pro/bin/license/CC-BY-4.0.md) |
+[Text](https://netwk.pro/bin/license/CC-BY-4.0.txt) |
+[RDFa](https://netwk.pro/bin/license/CC-BY-4.0-rdfa.xml) |
+[XMP](https://netwk.pro/bin/license/CC-BY-4.0.xml)</sup>
 
 Network Pro&trade; (the "Licensed Material") is licensed under **Creative
 Commons Attribution 4.0 International** (CC BY 4.0)
@@ -165,11 +165,11 @@ this License—may be available as further defined within this document.
 
 ## 8. GNU General Public License (GPL)
 
-<sup>Formats: [HTML](https://netwk.pro/assets/license/COPYING.html) |
-[Markdown](https://netwk.pro/assets/license/COPYING.md) |
-[Text](https://netwk.pro/assets/license/COPYING.txt) |
-[RDFa](https://netwk.pro/assets/license/COPYING-rdfa.xml) |
-[ODT](https://netwk.pro/assets/license/COPYING.odt)</sup>
+<sup>View / Download: [HTML](https://netwk.pro/bin/license/COPYING.html) |
+[Markdown](https://netwk.pro/bin/license/COPYING.md) |
+[Text](https://netwk.pro/bin/license/COPYING.txt) |
+[RDFa](https://netwk.pro/bin/license/COPYING-rdfa.xml) |
+[ODT](https://netwk.pro/bin/license/COPYING.odt)</sup>
 
 Network Pro&trade; is free software: you can redistribute it and/or modify it
 under the terms of the **GNU General Public License** (GNU GPL) as published by
@@ -253,7 +253,7 @@ third parties, whether in contract, tort, or otherwise.
 ## 12. Support Disclaimer
 
 All support provided—whether through email, GitHub, community forums, or other
-channels—is offered "as-is" and **does not constitute any warranty, express or
+channels—is offered “as-is” and **does not constitute any warranty, express or
 implied**. The Company, its affiliates, owners, operators, and contributors make
 no guarantees regarding response time, resolution, availability, or fitness for
 any particular purpose.
@@ -295,7 +295,7 @@ current effective date is listed at the top of this document.
 
 <a name="contact"></a>
 
-## 15. Contact
+## 14. Contact
 
 The Company may be contacted via our [Contact Form](https://netwk.pro/contact)
 or by email at:  

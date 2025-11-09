@@ -72,7 +72,7 @@ The following repositories are covered under this policy:
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
 | Main site     | 1.25.6           | ✅ 1.25.x and newer |
-| Blog          | 1.5.4            | ✅ 1.5.x and newer |
+| Blog          | 1.5.5            | ✅ 1.5.x and newer |
 | Docs          | 1.3.7            | ✅ 1.3.x and newer |
 | Any 0.x       | N/A              | ❌ Not supported |
 
