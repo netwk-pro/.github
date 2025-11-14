@@ -6,10 +6,10 @@ SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== -->
 
-<section id="top">
-
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
+
+<section id="top">
 
 # CI Status
 
@@ -24,25 +24,25 @@ Monitor status and deployment pipelines across our major services:
 
 ## 🌐 Main Website ([`@networkpro/web`](https://github.com/netwk-pro/netwk-pro.github.io))
 
-[![Vercel](https://img.shields.io/github/deployments/netwk-pro/netwk-pro.github.io/Production?label=vercel&logo=vercel)](https://vercel.com)
-[![Build and Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml)
-[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/web)
+[![Vercel](https://img.shields.io/github/deployments/netwk-pro/netwk-pro.github.io/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
+[![Build and Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml/badge.svg 'Build and Publish to Registries')](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml)
+[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fweb?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&logoSize=auto&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/web)
 
 &nbsp;
 
 ## 📝 Blog ([`@networkpro/blog`](https://github.com/netwk-pro/blog))
 
-[![Deploy to GH Pages](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml)
-[![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)
-[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fblog?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/blog)
+[![Deploy to GH Pages](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml/badge.svg 'Deploy to GH Pages')](https://github.com/netwk-pro/blog/actions/workflows/build-and-deploy.yml)
+[![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)
+[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fblog?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/blog)
 
 &nbsp;
 
 ## 📚 Docs ([`@networkpro/docs`](https://github.com/netwk-pro/docs))
 
-[![Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml)
-[![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg)](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
-[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837)](https://www.npmjs.com/package/@networkpro/docs)
+[![Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg 'Deploy to GH Pages')](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml)
+[![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
+[![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/docs)
 
 ---
 
@@ -61,12 +61,13 @@ documentation hub, and discussions.
 - [Website / Primary Repo](#repo)
 - [FOSS Spotlight](#foss)
 - [Blog](#blog)
+- [Subsites](#subsites)
 - [Documentation](#docs)
 - [Link Hub](#links)
 - [Post Links](#posts)
 - [Discord](#discord)
 - [Discussions](#discuss)
-- [Stack Overflow Team](#stack)
+- [Stack Internal Team](#stack)
 
 ---
 
@@ -101,16 +102,31 @@ documentation hub, and discussions.
 
 </section>
 
+<section id="subsites">
+
+<details>
+
+<summary><strong>Subsites</strong></summary>
+
+- [Privacy & Security Apps and Services](https://apps.netwk.pro)
+- [Hardening Brave Browser](https://brave.netwk.pro)
+
+</details>
+
+</section>
+
 <section id="docs">
 
-#### ⚖️ Documentation
+<details>
+
+<summary><strong>⚖️ Documentation</strong></summary>
 
 - Web: [docs.netwk.pro](https://docs.netwk.pro)
 - GitHub: [netwk-pro/docs](https://github.com/netwk-pro/docs)
 
-</section>
+</details>
 
-<br />
+</section>
 
 <section id="links">
 
@@ -154,7 +170,7 @@ documentation hub, and discussions.
 
 <section id="stack">
 
-#### 📚 Stack Overflow Team
+#### 📚 Stack Internal Team
 
 - [stack.neteng.pro](https://stack.neteng.pro)
 

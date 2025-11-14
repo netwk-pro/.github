@@ -19,7 +19,7 @@ Thanks for your interest in **Network Pro Strategies** (Network Pro™)! We’re
 
 ## 📚 Technical Questions
 
-- [Stack Overflow Teams – `networkpro` tag](https://stack.neteng.pro)
+- [Stack Internal Teams – `networkpro` tag](https://stack.neteng.pro)
 - [GitHub Discussions](https://discuss.neteng.pro)
 
 ## 💬 Community Chat

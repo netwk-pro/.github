@@ -20,9 +20,9 @@ contact_links:
     url: https://discuss.neteng.pro
     about: Join the GitHub Discussions forum to get support from the community.
 
-  - name: Stack Overflow (Internal Team)
+  - name: Stack Internal Team
     url: https://stack.neteng.pro
-    about: Search or post questions in our internal Stack Overflow for Teams instance.
+    about: Search or post questions in our Stack Internal instance.
 
   - name: Contact Network Pro
     url: https://netwk.pro/contact?utm_source=github
