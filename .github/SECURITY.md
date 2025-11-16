@@ -24,13 +24,13 @@ Thank you for taking the time to responsibly disclose any security issues you ma
 
 Network Pro&trade; maintains continuous security coverage across multiple layers:
 
-| Category | Tool / Workflow | Frequency |
-|-----------|----------------|------------|
-| **SAST** | GitLeaks, CodeQL | On push, PR, nightly |
-| **DAST** | Probely | Weekly (Tuesday, 9 AM UTC) |
-| **Dependency Audit** | npm audit | Every build (non-blocking) |
-| **Dependency Updates** | Dependabot | As needed |
-| **Code Quality** | ESLint, Prettier, etc. (local) | Developer pre-commit |
+| Category             | Tool / Workflow         | Frequency                |
+|----------------------|-------------------------|--------------------------|
+| **SAST**             | GitLeaks, CodeQL        | On push, PR, nightly     |
+| **DAST**             | Probely                 | Weekly (Tuesday, 9 AM UTC) |
+| **Dependency Audit** | npm audit               | Every build (non-blocking) |
+| **Dependency Updates** | Dependabot           | As needed                |
+| **Code Quality**     | ESLint, Prettier, etc. (local) | Developer pre-commit |
 
 Results from these scans are surfaced in the GitHub Security tab or workflow artifacts.
 
@@ -71,7 +71,7 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.25.11           | ✅ 1.25.x and newer |
+| Main site     | 1.25.11          | ✅ 1.25.x and newer |
 | Blog          | 1.5.7            | ✅ 1.5.x and newer |
 | Docs          | 1.3.8            | ✅ 1.3.x and newer |
 | Any 0.x       | N/A              | ❌ Not supported |
