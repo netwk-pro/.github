@@ -32,7 +32,7 @@ Monitor status and deployment pipelines across our major services:
 
 ## 📝 Blog ([`@networkpro/blog`](https://github.com/netwk-pro/blog))
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99276ae5-90f3-49e3-a885-066c4279f2b9/deploy-status)](https://app.netlify.com/projects/netwkpro-blog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99276ae5-90f3-49e3-a885-066c4279f2b9/deploy-status)](https://netlify.com)
 [![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fblog?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/blog)
 
@@ -40,7 +40,7 @@ Monitor status and deployment pipelines across our major services:
 
 ## 📚 Docs ([`@networkpro/docs`](https://github.com/netwk-pro/docs))
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9cc9b71e-ce46-478c-8b9d-87b88fdf29fe/deploy-status)](https://app.netlify.com/projects/netwkpro-docs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9cc9b71e-ce46-478c-8b9d-87b88fdf29fe/deploy-status)](https://netlify.com)
 [![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/docs)
 
