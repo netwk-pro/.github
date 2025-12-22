@@ -16,13 +16,13 @@ This file is part of Network Pro.
 </section>
 
 **🔗 Real-time Uptime:**  
-[status.netwk.pro](https://status.netwk.pro)
+**[status.netwk.pro](https://status.netwk.pro)**
 
 Monitor status and deployment pipelines across our major services:
 
 ---
 
-## 🌐 Main Website ([`@networkpro/web`](https://github.com/netwk-pro/netwk-pro.github.io))
+## 🌐 Main Website ([`@netwk-pro/netwk-pro.github.io`](https://github.com/netwk-pro/netwk-pro.github.io))
 
 [![Vercel](https://img.shields.io/github/deployments/netwk-pro/netwk-pro.github.io/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
 [![Build and Publish to Registries](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml/badge.svg 'Build and Publish to Registries')](https://github.com/netwk-pro/netwk-pro.github.io/actions/workflows/build-and-publish.yml)
@@ -30,7 +30,7 @@ Monitor status and deployment pipelines across our major services:
 
 &nbsp;
 
-## 📝 Blog ([`@networkpro/blog`](https://github.com/netwk-pro/blog))
+## 📝 Blog ([`@netwk-pro/blog`](https://github.com/netwk-pro/blog))
 
 [![Vercel](https://img.shields.io/github/deployments/netwk-pro/blog/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
 [![Publish to Registries](https://github.com/netwk-pro/blog/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/blog/actions/workflows/publish.yml)
@@ -38,11 +38,25 @@ Monitor status and deployment pipelines across our major services:
 
 &nbsp;
 
-## 📚 Docs ([`@networkpro/docs`](https://github.com/netwk-pro/docs))
+## 📚 Docs ([`@netwk-pro/docs`](https://github.com/netwk-pro/docs))
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9cc9b71e-ce46-478c-8b9d-87b88fdf29fe/deploy-status)](https://netlify.com)
 [![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/docs)
+
+&nbsp;
+
+## 🔒 Privacy Apps & Services ([`@netwk-pro/privacy-apps`](https://github.com/netwk-pro/privacy-apps))
+
+[![Vercel](https://img.shields.io/github/deployments/netwk-pro/privacy-apps/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
+![GitHub release](https://img.shields.io/github/v/release/netwk-pro/privacy-apps?sort=semver&color=%23CB3837)
+
+&nbsp;
+
+## <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/netwk-pro/privacy-apps@refs/heads/master/src/img/apps/brave.png" alt="Brave Browser"/> Hardening Brave ([`@netwk-pro/hardening-brave`](https://github.com/netwk-pro/hardening-brave))
+
+[![Vercel](https://img.shields.io/github/deployments/netwk-pro/hardening-brave/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
+![GitHub release](https://img.shields.io/github/v/release/netwk-pro/hardening-brave?sort=semver&color=%23CB3837)
 
 ---
 
