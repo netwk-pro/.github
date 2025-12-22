@@ -40,7 +40,7 @@ Monitor status and deployment pipelines across our major services:
 
 ## 📚 Docs ([`@networkpro/docs`](https://github.com/netwk-pro/docs))
 
-[![Deploy to GH Pages](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml/badge.svg 'Deploy to GH Pages')](https://github.com/netwk-pro/docs/actions/workflows/build-and-deploy.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9cc9b71e-ce46-478c-8b9d-87b88fdf29fe/deploy-status)](https://netlify.com)
 [![Publish to Registries](https://github.com/netwk-pro/docs/actions/workflows/publish.yml/badge.svg 'Publish to Registries')](https://github.com/netwk-pro/docs/actions/workflows/publish.yml)
 [![NPM Version](https://img.shields.io/npm/v/%40networkpro%2Fdocs?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=flat&logo=npm&color=%23CB3837 'NPM Version')](https://www.npmjs.com/package/@networkpro/docs)
 
