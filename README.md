@@ -16,7 +16,7 @@ This file is part of Network Pro.
 </section>
 
 **🔗 Real-time Uptime:**  
-[status.netwk.pro](https://status.netwk.pro)
+**[status.netwk.pro](https://status.netwk.pro)**
 
 Monitor status and deployment pipelines across our major services:
 
@@ -49,14 +49,14 @@ Monitor status and deployment pipelines across our major services:
 ## 🔒 Privacy Apps & Services ([`@netwk-pro/privacy-apps`](https://github.com/netwk-pro/privacy-apps))
 
 [![Vercel](https://img.shields.io/github/deployments/netwk-pro/privacy-apps/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
-![GitHub release](https://img.shields.io/github/v/release/netwk-pro/privacy-apps?sort=semver&color=%23CB3837)
+![GitHub Release](https://img.shields.io/github/v/release/netwk-pro/privacy-apps?sort=semver&color=%23CB3837 'GitHub Release')
 
 &nbsp;
 
 ## <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/netwk-pro/privacy-apps@refs/heads/master/src/img/apps/brave.png" alt="Brave Browser"/> Hardening Brave ([`@netwk-pro/hardening-brave`](https://github.com/netwk-pro/hardening-brave))
 
 [![Vercel](https://img.shields.io/github/deployments/netwk-pro/hardening-brave/Production?label=vercel&logo=vercel 'Vercel')](https://vercel.com)
-![GitHub release](https://img.shields.io/github/v/release/netwk-pro/hardening-brave?sort=semver&color=%23CB3837)
+![GitHub Release](https://img.shields.io/github/v/release/netwk-pro/hardening-brave?sort=semver&color=%23CB3837 'GitHub Release')
 
 ---
 
