@@ -68,13 +68,17 @@ The following repositories are covered under this policy:
 - [`netwk-pro/netwk-pro.github.io`](https://github.com/netwk-pro/netwk-pro.github.io)
 - [`netwk-pro/blog`](https://github.com/netwk-pro/blog)
 - [`netwk-pro/docs`](https://github.com/netwk-pro/docs)
+- [`netwk-pro/privacy-apps`](https://github.com/netwk-pro/privacy-apps)
+- [`netwk-pro/hardening-brave`](https://github.com/netwk-pro/hardening-brave)
 
 | Project       | Current Version | Supported Versions |
 |---------------|------------------|---------------------|
-| Main site     | 1.25.11          | ✅ 1.25.x and newer |
-| Blog          | 1.5.7            | ✅ 1.5.x and newer |
-| Docs          | 1.3.8            | ✅ 1.3.x and newer |
-| Any 0.x       | N/A              | ❌ Not supported |
+| Main site     | 1.25.18          | ✅ 1.25.x and newer |
+| Blog          | 1.6.0            | ✅ 1.6.x and newer  |
+| Docs          | 1.3.10           | ✅ 1.3.x and newer  |
+| Privacy Apps  | 1.2.0            | ✅ 1.2.x and newer  |
+| Hardening Brave | 1.1.0          | ✅ 1.1.x and newer  |
+| Any 0.x       | N/A              | ❌ Not supported    |
 
 Versions earlier than 1.0.0 are out of scope for support unless a critical vulnerability affects downstream users.
 

@@ -226,7 +226,6 @@ Commonly pinned packages include:
 - `vitest`
 - `@vitest/coverage-v8`
 - `prettier`
-- `jsdom`
 
 If you think one of these can be safely updated, open a discussion issue or mention it in your PR description before upgrading.
 
