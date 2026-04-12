@@ -1,6 +1,6 @@
 {
   "name": "@netwk-pro/org-profile-pub",
-  "version": "1.1.23",
+  "version": "1.1.24",
   "description": "The GitHub public organization profile for Network Pro Strategies",
   "keywords": [
     "advisory",
@@ -38,10 +38,13 @@
     "check:updates": "ncu --format group --color"
   },
   "devDependencies": {
-    "browserslist": "^4.28.1",
+    "browserslist": "^4.28.2",
     "markdownlint": "^0.40.0",
-    "markdownlint-cli2": "0.20.0",
+    "markdownlint-cli2": "0.22.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "3.7.4"
+    "prettier": "3.8.2"
+  },
+  "overrides": {
+    "smol-toml": "^1.6.1"
   }
 }

@@ -1,7 +1,7 @@
 <!-- =========================================================================
 .github/SECURITY.md
 
-Copyright © 2025 Network Pro Strategies (Network Pro™)
+Copyright © 2025-2026 Network Pro Strategies (Network Pro™)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== -->
@@ -12,7 +12,7 @@ This file is part of Network Pro.
 # 🔐 Security Policy
 
 **Network Pro Strategies**  
-**Effective Date:** November 12, 2025
+**Effective Date:** April 11, 2026
 
 &nbsp;
 
@@ -71,13 +71,13 @@ The following repositories are covered under this policy:
 - [`netwk-pro/privacy-apps`](https://github.com/netwk-pro/privacy-apps)
 - [`netwk-pro/hardening-brave`](https://github.com/netwk-pro/hardening-brave)
 
-| Project       | Current Version | Supported Versions |
+| Project       | Current Version  | Supported Versions  |
 |---------------|------------------|---------------------|
-| Main site     | 1.25.18          | ✅ 1.25.x and newer |
-| Blog          | 1.6.0            | ✅ 1.6.x and newer  |
-| Docs          | 1.3.10           | ✅ 1.3.x and newer  |
-| Privacy Apps  | 1.2.0            | ✅ 1.2.x and newer  |
-| Hardening Brave | 1.1.0          | ✅ 1.1.x and newer  |
+| Main site     | 1.26.20          | ✅ 1.26.x and newer |
+| Blog          | 1.6.3            | ✅ 1.6.x and newer  |
+| Docs          | 1.4.3            | ✅ 1.4.x and newer  |
+| Privacy Apps  | 1.2.1            | ✅ 1.2.x and newer  |
+| Hardening Brave | 1.1.1          | ✅ 1.1.x and newer  |
 | Any 0.x       | N/A              | ❌ Not supported    |
 
 Versions earlier than 1.0.0 are out of scope for support unless a critical vulnerability affects downstream users.

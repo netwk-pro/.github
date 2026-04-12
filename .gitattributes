@@ -1,5 +1,4 @@
-# ==========================================================================
-# Copyright © 2025 Network Pro Strategies (Network Pro)
+# Copyright © 2025-2026 Network Pro Strategies (Network Pro™)
 # SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 # This file is part of Network Pro.
 #
@@ -12,8 +11,7 @@
 #   binary  These files are binary and should be left untouched.
 #
 # Note that binary is a macro for -text -diff.
-# ==========================================================================
-
+#
 ## AUTO-DETECT
 ##   Handle line endings automatically for files detected as
 ##   text and leave all files detected as binary untouched.

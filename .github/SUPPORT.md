@@ -1,7 +1,7 @@
 <!-- =========================================================================
 .github/SUPPORT.md
 
-Copyright © 2025 Network Pro Strategies (Network Pro™)
+Copyright © 2025-2026 Network Pro Strategies (Network Pro™)
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== -->
@@ -48,4 +48,4 @@ However, we understand that not all problems fit neatly into predefined categori
 
 We value every contribution and will do our best to help you regardless of how you report an issue.
 
-Thanks for helping improve Network Pro!
+Thanks for helping improve Network Pro™!
