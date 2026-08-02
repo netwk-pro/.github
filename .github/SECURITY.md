@@ -12,7 +12,7 @@ This file is part of Network Pro.
 # 🔐 Security Policy
 
 **Network Pro Strategies**  
-**Effective Date:** April 11, 2026
+**Effective Date:** August 2, 2026
 
 &nbsp;
 
@@ -73,7 +73,7 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version  | Supported Versions  |
 |---------------|------------------|---------------------|
-| Main site     | 1.26.20          | ✅ 1.26.x and newer |
+| Main site     | 1.30.2           | ✅ 1.30.x and newer |
 | Blog          | 1.6.3            | ✅ 1.6.x and newer  |
 | Docs          | 1.4.3            | ✅ 1.4.x and newer  |
 | Privacy Apps  | 1.2.1            | ✅ 1.2.x and newer  |
