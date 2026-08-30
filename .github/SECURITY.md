@@ -73,9 +73,9 @@ The following repositories are covered under this policy:
 
 | Project       | Current Version  | Supported Versions  |
 |---------------|------------------|---------------------|
-| Main site     | 1.30.2           | ✅ 1.30.x and newer |
+| Main site     | 1.31.0           | ✅ 1.31.x and newer |
 | Blog          | 1.6.3            | ✅ 1.6.x and newer  |
-| Docs          | 1.4.3            | ✅ 1.4.x and newer  |
+| Docs          | 1.4.5            | ✅ 1.4.x and newer  |
 | Privacy Apps  | 1.2.1            | ✅ 1.2.x and newer  |
 | Hardening Brave | 1.1.1          | ✅ 1.1.x and newer  |
 | Any 0.x       | N/A              | ❌ Not supported    |
